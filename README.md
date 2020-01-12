@@ -19,20 +19,20 @@
 + ACER XV273K 4K Display
 
 ---
-### Works
+### Work
 + Lan
 + Bluetooth
 + USB 3.0 & USB 2.0 Port
 + Video Card
 
 ---
-### Not Works
+### Not Work
 + Sleep
 + Power button
 + Boot Disk Select
 
 ---
-### Don't Know
+### Can't Confirm
 + iMessage
 + Facetime
 + Sidecar
