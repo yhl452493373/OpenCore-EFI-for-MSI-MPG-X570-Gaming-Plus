@@ -13,7 +13,7 @@
 + AMD Ryzen 7 3700x
 + XFX RX Vega64 Liq
 + MSI MPG X570 Gaming Plus
-+ Gloway DDR4 2666 32G * 4
++ Asgard DDR4 2666 32G * 4
 + USB Bluetooth BCM 20702 (VID_0A5C&PID_215C)
 + NO Wireless,Bt maybe suitable for DW 1560A
 + ACER XV273K 4K Display
