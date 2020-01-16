@@ -2,6 +2,10 @@
  
 ## EFI for Opencore，Support MacOS 10.15.2,i don't know if it works with other version
 
+---
+### In order to boot with BIOS Boot Device Select,please add file EFI/BOOT/BOOTX64.efi to uefi boot menu
+
+---
 ### BIOS Setting
 + Secure Boot -> Disable 
 + Serial Port -> Disable
@@ -43,4 +47,5 @@
 + Board Serial Number 
 + MLB 
 + ROM 
+
 these can be generate with clover
